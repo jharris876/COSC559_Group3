@@ -4,6 +4,6 @@
 https://editor.p5js.org/jacquespene8/sketches/ZmOHMzCIW
 
 ## To Do:  
-  -Potentially get more data for analysis
-  -Get clickTime in miilliseconds or seconds
-  -Group findings by buttonHight and buttonWidth and determine the range for the groupings
+  -Potentially get more data for analysis  
+  -Get clickTime in miilliseconds or seconds  
+  -Group findings by buttonHight and buttonWidth and determine the range for the groupings  
