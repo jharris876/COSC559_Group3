@@ -6,6 +6,7 @@ let buttonHeight = 50;
 let buttonWidth = 50;
 let buttonX = 30;
 let buttonY = 60;
+let timer = 30
 
 function setup() {
   createCanvas(600, 600);
@@ -15,7 +16,7 @@ function setup() {
   testButton.size(buttonWidth, buttonHeight)
   collectButton = createButton("Collect Data");
   collectButton.position(250, 25);
-  collectButton.mousePressed(collectData)
+  collectButton.mousePressed(collectData);
 }
 
 function logClick () {
@@ -56,4 +57,13 @@ function collectData () {
 
 function draw() {
   background(220);
+  textAlign(CENTER, CENTER);
+  textSize(20);
+  text(timer, 20, 10);
+  if (frameCount % 60 == 0 && timer > 0) {
+    timer --;
+  }
+  if (timer == 0) {
+    text("Time over. Collect Data", width/2, height*0.7);
+  }
 }
