@@ -1,0 +1,364 @@
+{
+  "logs": [
+    {
+      "clickNum": 1,
+      "clickTime": 1740539487934,
+      "timeDiff": 0,
+      "buttonHeight": 50,
+      "buttonWidth": 50,
+      "buttonX": 30,
+      "buttonY": 60
+    },
+    {
+      "clickNum": 2,
+      "clickTime": 1740539488698,
+      "timeDiff": 764,
+      "buttonHeight": 162,
+      "buttonWidth": 258,
+      "buttonX": 353,
+      "buttonY": 214
+    },
+    {
+      "clickNum": 3,
+      "clickTime": 1740539489514,
+      "timeDiff": 816,
+      "buttonHeight": 30,
+      "buttonWidth": 160,
+      "buttonX": 381,
+      "buttonY": 195
+    },
+    {
+      "clickNum": 4,
+      "clickTime": 1740539490465,
+      "timeDiff": 951,
+      "buttonHeight": 28,
+      "buttonWidth": 88,
+      "buttonX": 500,
+      "buttonY": 342
+    },
+    {
+      "clickNum": 5,
+      "clickTime": 1740539491282,
+      "timeDiff": 817,
+      "buttonHeight": 16,
+      "buttonWidth": 188,
+      "buttonX": 18,
+      "buttonY": 81
+    },
+    {
+      "clickNum": 6,
+      "clickTime": 1740539491981,
+      "timeDiff": 699,
+      "buttonHeight": 273,
+      "buttonWidth": 78,
+      "buttonX": 391,
+      "buttonY": 437
+    },
+    {
+      "clickNum": 7,
+      "clickTime": 1740539492732,
+      "timeDiff": 751,
+      "buttonHeight": 247,
+      "buttonWidth": 32,
+      "buttonX": 187,
+      "buttonY": 382
+    },
+    {
+      "clickNum": 8,
+      "clickTime": 1740539493599,
+      "timeDiff": 867,
+      "buttonHeight": 27,
+      "buttonWidth": 193,
+      "buttonX": 178,
+      "buttonY": 196
+    },
+    {
+      "clickNum": 9,
+      "clickTime": 1740539494232,
+      "timeDiff": 632,
+      "buttonHeight": 247,
+      "buttonWidth": 160,
+      "buttonX": 473,
+      "buttonY": 164
+    },
+    {
+      "clickNum": 10,
+      "clickTime": 1740539495702,
+      "timeDiff": 1470,
+      "buttonHeight": 113,
+      "buttonWidth": 146,
+      "buttonX": 461,
+      "buttonY": 539
+    },
+    {
+      "clickNum": 11,
+      "clickTime": 1740539496465,
+      "timeDiff": 763,
+      "buttonHeight": 193,
+      "buttonWidth": 21,
+      "buttonX": 451,
+      "buttonY": 113
+    },
+    {
+      "clickNum": 12,
+      "clickTime": 1740539497116,
+      "timeDiff": 651,
+      "buttonHeight": 216,
+      "buttonWidth": 48,
+      "buttonX": 489,
+      "buttonY": 317
+    },
+    {
+      "clickNum": 13,
+      "clickTime": 1740539497801,
+      "timeDiff": 685,
+      "buttonHeight": 290,
+      "buttonWidth": 152,
+      "buttonX": 52,
+      "buttonY": 483
+    },
+    {
+      "clickNum": 14,
+      "clickTime": 1740539498765,
+      "timeDiff": 964,
+      "buttonHeight": 10,
+      "buttonWidth": 96,
+      "buttonX": 535,
+      "buttonY": 385
+    },
+    {
+      "clickNum": 15,
+      "clickTime": 1740539499281,
+      "timeDiff": 516,
+      "buttonHeight": 241,
+      "buttonWidth": 228,
+      "buttonX": 505,
+      "buttonY": 20
+    },
+    {
+      "clickNum": 16,
+      "clickTime": 1740539499781,
+      "timeDiff": 500,
+      "buttonHeight": 151,
+      "buttonWidth": 284,
+      "buttonX": 352,
+      "buttonY": 264
+    },
+    {
+      "clickNum": 17,
+      "clickTime": 1740539500401,
+      "timeDiff": 620,
+      "buttonHeight": 193,
+      "buttonWidth": 281,
+      "buttonX": 412,
+      "buttonY": 454
+    },
+    {
+      "clickNum": 18,
+      "clickTime": 1740539501065,
+      "timeDiff": 664,
+      "buttonHeight": 110,
+      "buttonWidth": 140,
+      "buttonX": 56,
+      "buttonY": 517
+    },
+    {
+      "clickNum": 19,
+      "clickTime": 1740539501715,
+      "timeDiff": 650,
+      "buttonHeight": 233,
+      "buttonWidth": 161,
+      "buttonX": 435,
+      "buttonY": 78
+    },
+    {
+      "clickNum": 20,
+      "clickTime": 1740539502433,
+      "timeDiff": 718,
+      "buttonHeight": 32,
+      "buttonWidth": 271,
+      "buttonX": 166,
+      "buttonY": 409
+    },
+    {
+      "clickNum": 21,
+      "clickTime": 1740539503615,
+      "timeDiff": 1182,
+      "buttonHeight": 201,
+      "buttonWidth": 14,
+      "buttonX": 533,
+      "buttonY": 537
+    },
+    {
+      "clickNum": 22,
+      "clickTime": 1740539504250,
+      "timeDiff": 635,
+      "buttonHeight": 75,
+      "buttonWidth": 261,
+      "buttonX": 187,
+      "buttonY": 313
+    },
+    {
+      "clickNum": 23,
+      "clickTime": 1740539504799,
+      "timeDiff": 549,
+      "buttonHeight": 236,
+      "buttonWidth": 61,
+      "buttonX": 371,
+      "buttonY": 420
+    },
+    {
+      "clickNum": 24,
+      "clickTime": 1740539505515,
+      "timeDiff": 716,
+      "buttonHeight": 89,
+      "buttonWidth": 68,
+      "buttonX": 519,
+      "buttonY": 325
+    },
+    {
+      "clickNum": 25,
+      "clickTime": 1740539506020,
+      "timeDiff": 505,
+      "buttonHeight": 210,
+      "buttonWidth": 235,
+      "buttonX": 122,
+      "buttonY": 189
+    },
+    {
+      "clickNum": 26,
+      "clickTime": 1740539506782,
+      "timeDiff": 762,
+      "buttonHeight": 51,
+      "buttonWidth": 129,
+      "buttonX": 40,
+      "buttonY": 72
+    },
+    {
+      "clickNum": 27,
+      "clickTime": 1740539507651,
+      "timeDiff": 869,
+      "buttonHeight": 49,
+      "buttonWidth": 248,
+      "buttonX": 22,
+      "buttonY": 541
+    },
+    {
+      "clickNum": 28,
+      "clickTime": 1740539508233,
+      "timeDiff": 582,
+      "buttonHeight": 107,
+      "buttonWidth": 101,
+      "buttonX": 158,
+      "buttonY": 198
+    },
+    {
+      "clickNum": 29,
+      "clickTime": 1740539509000,
+      "timeDiff": 767,
+      "buttonHeight": 8,
+      "buttonWidth": 144,
+      "buttonX": 354,
+      "buttonY": 220
+    },
+    {
+      "clickNum": 30,
+      "clickTime": 1740539509516,
+      "timeDiff": 515,
+      "buttonHeight": 186,
+      "buttonWidth": 197,
+      "buttonX": 36,
+      "buttonY": 323
+    },
+    {
+      "clickNum": 31,
+      "clickTime": 1740539510400,
+      "timeDiff": 884,
+      "buttonHeight": 14,
+      "buttonWidth": 33,
+      "buttonX": 279,
+      "buttonY": 70
+    },
+    {
+      "clickNum": 32,
+      "clickTime": 1740539511198,
+      "timeDiff": 798,
+      "buttonHeight": 86,
+      "buttonWidth": 261,
+      "buttonX": 91,
+      "buttonY": 377
+    },
+    {
+      "clickNum": 33,
+      "clickTime": 1740539512065,
+      "timeDiff": 867,
+      "buttonHeight": 14,
+      "buttonWidth": 20,
+      "buttonX": 510,
+      "buttonY": 208
+    },
+    {
+      "clickNum": 34,
+      "clickTime": 1740539512546,
+      "timeDiff": 481,
+      "buttonHeight": 201,
+      "buttonWidth": 271,
+      "buttonX": 217,
+      "buttonY": 49
+    },
+    {
+      "clickNum": 35,
+      "clickTime": 1740539513167,
+      "timeDiff": 621,
+      "buttonHeight": 211,
+      "buttonWidth": 190,
+      "buttonX": 534,
+      "buttonY": 3
+    },
+    {
+      "clickNum": 36,
+      "clickTime": 1740539514101,
+      "timeDiff": 934,
+      "buttonHeight": 101,
+      "buttonWidth": 186,
+      "buttonX": 539,
+      "buttonY": 365
+    },
+    {
+      "clickNum": 37,
+      "clickTime": 1740539514915,
+      "timeDiff": 814,
+      "buttonHeight": 54,
+      "buttonWidth": 189,
+      "buttonX": 257,
+      "buttonY": 11
+    },
+    {
+      "clickNum": 38,
+      "clickTime": 1740539515482,
+      "timeDiff": 567,
+      "buttonHeight": 228,
+      "buttonWidth": 205,
+      "buttonX": 128,
+      "buttonY": 409
+    },
+    {
+      "clickNum": 39,
+      "clickTime": 1740539516115,
+      "timeDiff": 633,
+      "buttonHeight": 236,
+      "buttonWidth": 195,
+      "buttonX": 421,
+      "buttonY": 297
+    },
+    {
+      "clickNum": 40,
+      "clickTime": 1740539516865,
+      "timeDiff": 750,
+      "buttonHeight": 64,
+      "buttonWidth": 99,
+      "buttonX": 463,
+      "buttonY": 132
+    }
+  ]
+}
